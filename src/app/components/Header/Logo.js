@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import profileImg from "@/public/profile-img.png";
+import profileImg from "@/public/Ork_Necron_Logo.PNG";
 
 const Logo = () => {
   return (
